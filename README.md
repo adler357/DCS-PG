@@ -1,5 +1,9 @@
 # DCS: Persian Gulf beacon mod
 
+Save the file in \DCS World\Mods\terrains\PersianGulf\
+
+* Note: this file will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
+
 General info:
 * I have added ICLS beacons for the F/A-18C for all runways that are already equipped with regular ILS.
 * Instead of using DMEs co-located with the Glide Path(/Slope), I have added TACANS for use in aircraft without separate DME and VOR receivers.
